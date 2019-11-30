@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
-  puts array.index()
+  puts array.index(value_to_find)
   array.length.times do 
     if array.include?("#{value_to_find}")
       puts array.index("#{value_to_find}")
