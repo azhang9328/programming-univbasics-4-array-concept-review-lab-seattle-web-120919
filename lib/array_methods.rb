@@ -7,6 +7,10 @@ end
 
 def find_max_value(array)
   # Add your solution here
+  index = 0 
+  while index < array.length
+  
+  end 
 end
 
 def find_min_value(array)
